@@ -24,7 +24,7 @@ i:hover {
   overflow: hidden;
 }
 
-.slider-inner {
+.inner-slider {
   position: absolute;
   top: 0;
   left: 0;
